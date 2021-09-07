@@ -1,2 +1,2 @@
-# Locating_App
+# Locating_System
 # Graduation Project
